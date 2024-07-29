@@ -1,0 +1,32 @@
+.hero {
+    background-color: #28a745;
+    color: #fff;
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 48px;
+    margin: 0;
+  }
+  
+  .hero p {
+    font-size: 24px;
+  }
+  
+  .product-section {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .testimonials {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .testimonials h2 {
+    font-size: 24px;
+  }
+  
